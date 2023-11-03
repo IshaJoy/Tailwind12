@@ -1,0 +1,1 @@
+Always design for small screen then make changes using md:(font size,padding etc)
